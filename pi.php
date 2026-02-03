@@ -1,10 +1,7 @@
 <?php
 /**
- *
  *  EXAMPLE FILE FOR ESC POS PRINTER PHP
  *  AUTHOR: Warren Doyle (wdoyle)
- *
- *
  */
 require_once(dirname(__FILE__) . "/php-print.php");
 
